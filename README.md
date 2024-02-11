@@ -4,7 +4,7 @@
 
 **A passionate Data Science Engineer**
 -  I’m currently learning Machine Learning,Stastical analysis and Apache Spark
--  💬 Ask me about Python , SQL, R programming, SAP APO 
+-  💬 Ask me about Python , SQL, R programming, SAP APO ,Power BI, Tableu
 - 📫 How to reach me mounikapalthya18@gmail.com
 - 📄 Know about my experiences https://drive.google.com/file/d/1AgIdNOYYHNuTE3yNiNSoblW_Sii3VYWF/view?usp=sharing
 
