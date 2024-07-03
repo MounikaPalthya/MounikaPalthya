@@ -2,11 +2,11 @@
                                   
 **Hi ,I am Mounika Palthya**
 
-**A passionate Data Science Engineer**
--  I’m currently learning Machine Learning,Stastical analysis and Apache Spark
--  💬 Ask me about Python , SQL, R programming, SAP APO ,Power BI, Tableu
+**A passionate Supply chain data Analyst**
+-  I’m currently learning Machine Learning,Stastical analysis and Apache Spark.
+-  💬 Ask me about Python , SQL, R programming, SAP Advanced planning and optimization, SAS,
 - 📫 How to reach me mounikapalthya18@gmail.com
-- 📄 Know about my experiences https://drive.google.com/file/d/1AgIdNOYYHNuTE3yNiNSoblW_Sii3VYWF/view?usp=sharing
+- 📄 Know about my experiences https:https://drive.google.com/file/d/17sRejDuJA4bJcLD5brR7Uy7hcN2Jd_3l/view?usp=sharing
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
