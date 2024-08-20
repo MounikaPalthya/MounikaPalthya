@@ -2,7 +2,7 @@
                                   
 **Hi ,I am Mounika Palthya**
 
-**A passionate Supply chain data Analyst**
+**A passionate Data Analyst**
 -  I’m currently learning Machine Learning,Stastical analysis and Apache Spark.
 -  💬 Ask me about Python , SQL, R programming, SAP Advanced planning and optimization, SAS,
 - 📫 How to reach me mounikapalthya18@gmail.com
