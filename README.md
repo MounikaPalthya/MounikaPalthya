@@ -4,7 +4,7 @@
 
 **A passionate Data Analyst**
 -  I’m currently learning Machine Learning,Stastical analysis and Apache Spark.
--  💬 Ask me about Python , SQL, R programming, SAP Advanced planning and optimization, SAS,
+-  💬 Ask me about Python , SQL, R programming, SAP Advanced planning and optimization.
 - 📫 How to reach me mounikapalthya18@gmail.com
 - 📄 Know about my experiences https:https://drive.google.com/file/d/17sRejDuJA4bJcLD5brR7Uy7hcN2Jd_3l/view?usp=sharing
 
@@ -15,18 +15,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP APO" width="40" height="40"/>
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
 </p>
-
 
 
 
