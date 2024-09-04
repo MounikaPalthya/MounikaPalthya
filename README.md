@@ -4,7 +4,7 @@
 
 **A passionate Data Analyst**
 -  I’m currently learning Machine Learning,Stastical analysis and Apache Spark.
--  💬 Ask me about Python , SQL, R programming, SAP Advanced planning and optimization.
+-  💬 Ask me about Python , SQL, R programming,Power BI,Tableau, SAP Advanced planning and optimization.
 - 📫 How to reach me mounikapalthya18@gmail.com
 - 📄 Know about my experiences https:https://drive.google.com/file/d/17sRejDuJA4bJcLD5brR7Uy7hcN2Jd_3l/view?usp=sharing
 
