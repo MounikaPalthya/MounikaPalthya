@@ -11,13 +11,13 @@
 
   ## Featured Projects
 
-- **[Speaker Accent Recognition](https://github.com/MounikaPalthya/speaker-accent-recognition)**  
+- **[Speaker Accent Recognition](https://github.com/MounikaPalthya/Speaker-Accent-recognition-and-detection-using-R-programming)**  
    Developed a machine learning model using R programming to recognize accents with accuracy between 77% and 97%.
    
-- **[Rainfall Detection Using LSTM](https://github.com/MounikaPalthya/rainfall-detection-lstm)**  
+- **[Rainfall Detection Using LSTM](https://github.com/MounikaPalthya/Rain-Fall-Detection)**  
    Created an LSTM-based model to predict rainfall patterns for improved weather forecasting.
 
-- **[Email Spam Detection](https://github.com/MounikaPalthya/email-spam-detection)**  
+- **[Email Spam Detection](https://github.com/MounikaPalthya/Email-Spam-Detection-using-Machine-Learning)**  
    Implemented multiple machine learning models to classify email spam with 95% accuracy.
 
 
