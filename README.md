@@ -2,7 +2,7 @@
 
 # Hi, I'm Mounika Palthya  
 
-**SAP APO Consultant | Data Science & Analytics Enthusiast**  
+**SAP Consultant | Data Analytics Enthusiast**  
 
 - 🌍 Experienced **SAP APO Consultant** with expertise in **Demand Planning (DP), Supply Network Planning (SNP), and Production Planning & Detailed Scheduling (PP/DS)**.  
 - 🔍 Passionate about **Supply Chain Optimization, Forecasting, and Data Analytics**.  
