@@ -8,7 +8,7 @@
 - 🔍 Passionate about **Supply Chain Optimization, Forecasting, and Data Analytics**.  
 - 💡 Skilled in **Python, SQL, R, Power BI, Tableau, SAP APO, SAP IBP, and Kinaxis RapidResponse**.  
 - 📊 Hands-on experience in **Machine Learning, Statistical Analysis, and Predictive Modeling**.  
-- 📫 Reach me at **mounikapalthya18@gmail.com**  
+- 📫 Reach me at **maunikapalthya6632@hotmail.com**  
 - 📄 [View My Resume](https://docs.google.com/document/d/11wFmfxTldfd1TE6zy_OWJqnwTJrgnuX3/edit?usp=drive_link&ouid=103795237517626164402&rtpof=true&sd=true)  
 
 ---
