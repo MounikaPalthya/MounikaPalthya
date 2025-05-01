@@ -8,7 +8,7 @@
 - 🔍 Passionate about **Supply Chain Optimization, Forecasting, and Data Analytics**.  
 - 💡 Skilled in **Python, SQL, R, Power BI, Tableau, SAP APO, SAP IBP, SAP S/4HANA**.  
 - 📊 Hands-on experience in **Machine Learning, Statistical Analysis, and Predictive Modeling**.  
-- 📫 Reach me at **mounikapalthya18@gmail.com**  
+- 📫 Reach me at **mounikap1974@gmail.com**  
 - 📄 [View My Resume](https://docs.google.com/document/d/11wFmfxTldfd1TE6zy_OWJqnwTJrgnuX3/edit?usp=drive_link)
 
 ---
@@ -24,14 +24,12 @@
 - Enabled third-party integrations via IDocs and BAPIs, boosting order visibility by 35%.  
 - Developed Fiori dashboards for tracking warehouse KPIs, inventory, and delivery metrics.  
 
-### **SAP Consultant | Tata Consultancy Services (Oct 2021 – Dec 2022)**  
+### **SAP Consultant | Clairvoyant (Mar 2019 – Dec 2022)**  
 - Delivered SAP APO solutions for complex supply chain planning challenges.  
 - Resolved 97%+ of production planning failures and optimized CIF integration.  
 - Managed Core Interface (CIF) between SAP APO and R/3 for synchronization.  
 - Led resolution of issues in Transport Load Builder and Deployment.  
 - Automated CVC clean-up and improved system performance.  
-
-### **SAP Consultant | ACL Digital (Jan 2020 – Sept 2021)**  
 - Configured planning books, data views, and forecast profiles for APO DP & SNP.  
 - Supported CIF integration with ECC and collaborated on ABAP custom reports.  
 - Participated in APO upgrade testing, documentation, and user support.  
