@@ -9,9 +9,6 @@
 - 💡 Skilled in **Python, SQL, R, Power BI, Tableau, SAP APO, SAP IBP, SAP S/4HANA**.  
 - 📊 Hands-on experience in **Machine Learning, Statistical Analysis, and Predictive Modeling**.  
 - 📫 Reach me at **mounikap1974@gmail.com**  
-- 📄 [View My Resume](https://docs.google.com/document/d/11wFmfxTldfd1TE6zy_OWJqnwTJrgnuX3/edit?usp=drive_link)
-
----
 
 ## 💼 Work Experience  
 
