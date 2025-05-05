@@ -8,7 +8,11 @@
 - 🔍 Passionate about **Supply Chain Optimization, Forecasting, and Data Analytics**.  
 - 💡 Skilled in **Python, SQL, R, Power BI, Tableau, SAP APO, SAP IBP, SAP S/4HANA**.  
 - 📊 Hands-on experience in **Machine Learning, Statistical Analysis, and Predictive Modeling**.  
-- 📫 Reach me at **mounikap1974@gmail.com**  
+- 📫 Reach me at **mounikap1974@gmail.com**
+- Git hub - 📄 [View My Resume](https://docs.google.com/document/d/11wFmfxTldfd1TE6zy_OWJqnwTJrgnuX3/edit?usp=drive_link)
+
+---
+ 
 
 ## 💼 Work Experience  
 
@@ -21,7 +25,7 @@
 - Enabled third-party integrations via IDocs and BAPIs, boosting order visibility by 35%.  
 - Developed Fiori dashboards for tracking warehouse KPIs, inventory, and delivery metrics.  
 
-### **SAP Consultant | Clairvoyant (Mar 2019 – Dec 2022)**  
+### **SAP Consultant | Tata Consultancy Services (Oct 2021– Dec 2022)**  
 - Delivered SAP APO solutions for complex supply chain planning challenges.  
 - Resolved 97%+ of production planning failures and optimized CIF integration.  
 - Managed Core Interface (CIF) between SAP APO and R/3 for synchronization.  
@@ -29,8 +33,15 @@
 - Automated CVC clean-up and improved system performance.  
 - Configured planning books, data views, and forecast profiles for APO DP & SNP.  
 - Supported CIF integration with ECC and collaborated on ABAP custom reports.  
-- Participated in APO upgrade testing, documentation, and user support.  
-
+- Participated in APO upgrade testing, documentation, and user support.
+  ### **SAP Consultant | ACL Digital (Jan 2020 – Sep 2021)**
+  	- Delivered functional and configuration support for SAP APO DP and SNP modules in a fast-paced retail environment.
+    - Configured planning books, data views, and macros to enable efficient demand and supply network planning.
+    - Fine-tuned forecast profiles, key figures, and alert profiles to improve planning accuracy and exception handling.
+    - Supported CIF integration between SAP APO and ECC for real-time data synchronization of master and transactional data.
+    - Worked closely with ABAP team to develop custom reports for demand trends, inventory levels, and planning performance KPIs.
+    - Provided user support, testing, and documentation during APO system upgrades and enhancements.
+    -	Participated in process improvement initiatives to streamline forecasting cycles, reduce manual intervention, and enhance supply visibility.
 ---
 
 ## 🔥 Key Skills  
