@@ -2,21 +2,32 @@
 
 # Hi, I'm Mounika Palthya  
 
-**SAP Consultant**  
+**SAP Production Planner**  
 
 - 🌍 Experienced **SAP APO Consultant** with expertise in **Demand Planning (DP), Supply Network Planning (SNP), and Production Planning & Detailed Scheduling (PP/DS), SAP PP, SAP MM**.  
 - 🔍 Passionate about **Supply Chain Optimization, Forecasting, and Data Analytics**.  
 - 💡 Skilled in **Python, SQL, R, Power BI, Tableau, SAP APO, SAP IBP, SAP S/4HANA**.  
 - 📊 Hands-on experience in **Machine Learning, Statistical Analysis, and Predictive Modeling**.  
 - 📫 Reach me at **mounikap1974@gmail.com**
-- Git hub - 📄 [View My Resume](https://docs.google.com/document/d/11wFmfxTldfd1TE6zy_OWJqnwTJrgnuX3/edit?usp=drive_link)
 
 ---
  
 
 ## 💼 Work Experience  
+### **SAP Production Planner | HCL Tech (Jan 2026- Present)**
+•	Executed daily production planning activities on the shop floor, including creation, release, and tracking of production work orders to meet delivery schedules.
+•	Reviewed and maintained production master data such as BOMs, routings, work centers, and production versions to ensure accurate planning and execution.
+•	Coordinated closely with manufacturing, quality, and warehouse teams to resolve order shortages, material issues, and execution delays.
+•	Supported MRP execution by analyzing exception messages (past due, reschedule in/out, cancel) and taking corrective actions.
+•	 Monitored shop floor confirmations, yield, and scrap data to ensure accurate production reporting and system alignment.
+•	 Assisted in capacity planning and load balancing to avoid bottlenecks and improve line utilization.
+•	Identified and resolved master data inconsistencies impacting production orders, improving schedule adherence and execution accuracy.
+•	Supported continuous improvement initiatives by standardizing production processes and reducing manual intervention.
+•	Worked with SAP PP teams to ensure smooth integration between planning and execution systems.
+•	Ensured compliance with production procedures, quality standards, and system controls on the manufacturing floor.
 
-### **SAP Consultant | Dell Technologies (Oct 2024 - Present)**  
+
+### **SAP Consultant | Dell Technologies (Oct 2024 - Dec 2025)**  
 - Reduced lead times by 25% and improved inventory turnover by 20%.  
 - Designed and managed planning books for DP and SNP; handled batch job failures and planning alerts with 97% resolution rate.  
 - Enhanced production scheduling accuracy using SAP PP/DS, MRP optimization, and detailed capacity planning.  
@@ -25,7 +36,7 @@
 - Enabled third-party integrations via IDocs and BAPIs, boosting order visibility by 35%.  
 - Developed Fiori dashboards for tracking warehouse KPIs, inventory, and delivery metrics.  
 
-### **SAP Consultant | Tata Consultancy Services (Oct 2021– Dec 2022)**  
+### **SAP Consultant | Tata Consultancy Services (Jan 2021– Dec 2022)**  
 - Delivered SAP APO solutions for complex supply chain planning challenges.  
 - Resolved 97%+ of production planning failures and optimized CIF integration.  
 - Managed Core Interface (CIF) between SAP APO and R/3 for synchronization.  
@@ -34,16 +45,7 @@
 - Configured planning books, data views, and forecast profiles for APO DP & SNP.  
 - Supported CIF integration with ECC and collaborated on ABAP custom reports.  
 - Participated in APO upgrade testing, documentation, and user support.
-  ### **SAP Consultant | ACL Digital (Jan 2020 – Sep 2021)**
-  	- Delivered functional and configuration support for SAP APO DP and SNP modules in a fast-paced retail environment.
-    - Configured planning books, data views, and macros to enable efficient demand and supply network planning.
-    - Fine-tuned forecast profiles, key figures, and alert profiles to improve planning accuracy and exception handling.
-    - Supported CIF integration between SAP APO and ECC for real-time data synchronization of master and transactional data.
-    - Worked closely with ABAP team to develop custom reports for demand trends, inventory levels, and planning performance KPIs.
-    - Provided user support, testing, and documentation during APO system upgrades and enhancements.
-    -	Participated in process improvement initiatives to streamline forecasting cycles, reduce manual intervention, and enhance supply visibility.
----
-
+  
 ## 🔥 Key Skills  
 
 - **SAP & Supply Chain**: SAP APO (DP, SNP, PP/DS), SAP IBP, SAP MM, SAP PP, SAP ECC, Kinaxis RapidResponse  
