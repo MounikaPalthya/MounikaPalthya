@@ -4,17 +4,17 @@
 
 **SAP Production Planner**  
 
-- 🌍 Experienced **SAP APO Consultant** with expertise in **Demand Planning (DP), Supply Network Planning (SNP), and Production Planning & Detailed Scheduling (PP/DS), SAP PP, SAP MM**.  
+- 🌍 Experienced **SAP APO Consultant** with expertise in **Demand Planning (DP), Supply Network Planning (SNP), and Production Planning & Detailed Scheduling (PP/DS), SAP PP,QM, SAP MM**.  
 - 🔍 Passionate about **Supply Chain Optimization, Forecasting, and Data Analytics**.  
 - 💡 Skilled in **Python, SQL, R, Power BI, Tableau, SAP APO, SAP IBP, SAP S/4HANA**.  
 - 📊 Hands-on experience in **Machine Learning, Statistical Analysis, and Predictive Modeling**.  
-- 📫 Reach me at **mounikap1974@gmail.com**
+- 📫 Reach me at **palthyamounika144@gmail.com**
 
 ---
  
 
 ## 💼 Work Experience  
-### **SAP Production Planner | HCL Tech (Jan 2026- Present)**
+### **SAP Production Planner |Johnson and Johnson Vision (Contract) (Jan 2026- Present)**
 •	Executed daily production planning activities on the shop floor, including creation, release, and tracking of production work orders to meet delivery schedules.
 •	Reviewed and maintained production master data such as BOMs, routings, work centers, and production versions to ensure accurate planning and execution.
 •	Coordinated closely with manufacturing, quality, and warehouse teams to resolve order shortages, material issues, and execution delays.
@@ -27,7 +27,7 @@
 •	Ensured compliance with production procedures, quality standards, and system controls on the manufacturing floor.
 
 
-### **SAP Consultant | Dell Technologies (Oct 2024 - Dec 2025)**  
+### **SAP PP Consultant | Dell Technologies (Oct 2024 - Dec 2025)**  
 - Reduced lead times by 25% and improved inventory turnover by 20%.  
 - Designed and managed planning books for DP and SNP; handled batch job failures and planning alerts with 97% resolution rate.  
 - Enhanced production scheduling accuracy using SAP PP/DS, MRP optimization, and detailed capacity planning.  
@@ -36,7 +36,7 @@
 - Enabled third-party integrations via IDocs and BAPIs, boosting order visibility by 35%.  
 - Developed Fiori dashboards for tracking warehouse KPIs, inventory, and delivery metrics.  
 
-### **SAP Consultant | Tata Consultancy Services (Jan 2021– Dec 2022)**  
+### **SAP PPDS Consultant | Tata Consultancy Services (Jan 2021– Dec 2022)**  
 - Delivered SAP APO solutions for complex supply chain planning challenges.  
 - Resolved 97%+ of production planning failures and optimized CIF integration.  
 - Managed Core Interface (CIF) between SAP APO and R/3 for synchronization.  
@@ -48,7 +48,7 @@
   
 ## 🔥 Key Skills  
 
-- **SAP & Supply Chain**: SAP APO (DP, SNP, PP/DS), SAP IBP, SAP MM, SAP PP, SAP ECC, Kinaxis RapidResponse  
+- **SAP & Supply Chain**: SAP APO (DP, SNP, PP/DS), SAP IBP, SAP MM, SAP PP &QM, SAP ECC, Kinaxis RapidResponse  
 - **Data & Analytics**: Python (Pandas, NumPy), SQL (MySQL, PostgreSQL, T-SQL), Power BI, Tableau  
 - **Forecasting & Optimization**: Demand Planning, Inventory Optimization, Cost Reduction Strategies  
 - **Project Management**: Agile, Scrum, Jira, ServiceNow  
