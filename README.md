@@ -4,56 +4,53 @@
 
 **SAP Production Planner**  
 
-- 🌍 Experienced **SAP APO Consultant** with expertise in **Demand Planning (DP), Supply Network Planning (SNP), and Production Planning & Detailed Scheduling (PP/DS), SAP PP,QM, SAP MM**.  
-- 🔍 Passionate about **Supply Chain Optimization, Forecasting, and Data Analytics**.  
-- 💡 Skilled in **Python, SQL, R, Power BI, Tableau, SAP APO, SAP IBP, SAP S/4HANA**.  
-- 📊 Hands-on experience in **Machine Learning, Statistical Analysis, and Predictive Modeling**.  
-- 📫 Reach me at **palthyamounika144@gmail.com**
+🌍 Experienced Production Planner with 4+ years in manufacturing, focusing on production scheduling, material planning, and order execution
+🔍 Strong in MRP, material availability, and shortage resolution to support smooth shop floor operations
+🤝 Work closely with procurement, quality, engineering, and warehouse teams to meet delivery timelines
+📊 Skilled in Excel, Power BI, and SQL for reporting, analysis, and decision-making
+💡 Passionate about improving production efficiency, inventory performance, and planning processes
+📫 Reach me at palthyamounika144@gmail.com
 
 ---
  
 
 ## 💼 Work Experience  
 ### **SAP Production Planner |Johnson and Johnson Vision (Contract) (Jan 2026- Present)**
-•	Executed daily production planning activities on the shop floor, including creation, release, and tracking of production work orders to meet delivery schedules.
-•	Reviewed and maintained production master data such as BOMs, routings, work centers, and production versions to ensure accurate planning and execution.
-•	Coordinated closely with manufacturing, quality, and warehouse teams to resolve order shortages, material issues, and execution delays.
-•	Supported MRP execution by analyzing exception messages (past due, reschedule in/out, cancel) and taking corrective actions.
-•	 Monitored shop floor confirmations, yield, and scrap data to ensure accurate production reporting and system alignment.
-•	 Assisted in capacity planning and load balancing to avoid bottlenecks and improve line utilization.
-•	Identified and resolved master data inconsistencies impacting production orders, improving schedule adherence and execution accuracy.
-•	Supported continuous improvement initiatives by standardizing production processes and reducing manual intervention.
-•	Worked with SAP PP teams to ensure smooth integration between planning and execution systems.
-•	Ensured compliance with production procedures, quality standards, and system controls on the manufacturing floor.
+-	Executed daily production planning activities on the shop floor, including creation, release, and tracking of production work orders to meet delivery schedules.
+-	Reviewed and maintained production master data such as BOMs, routings, work centers, and production versions to ensure accurate planning and execution.
+- Coordinated closely with manufacturing, quality, and warehouse teams to resolve order shortages, material issues, and execution delays.
+-	Supported MRP execution by analyzing exception messages (past due, reschedule in/out, cancel) and taking corrective actions.
+-	 Monitored shop floor confirmations, yield, and scrap data to ensure accurate production reporting and system alignment.
+-	 Assisted in capacity planning and load balancing to avoid bottlenecks and improve line utilization.
+-	Identified and resolved master data inconsistencies impacting production orders, improving schedule adherence and execution accuracy.
+- Supported continuous improvement initiatives by standardizing production processes and reducing manual intervention.
+-	Worked with SAP PP teams to ensure smooth integration between planning and execution systems.
+- Ensured compliance with production procedures, quality standards, and system controls on the manufacturing floor.
 
 
-### **SAP PP Consultant | Dell Technologies (Oct 2024 - Dec 2025)**  
-- Reduced lead times by 25% and improved inventory turnover by 20%.  
-- Designed and managed planning books for DP and SNP; handled batch job failures and planning alerts with 97% resolution rate.  
-- Enhanced production scheduling accuracy using SAP PP/DS, MRP optimization, and detailed capacity planning.  
-- Integrated SAP APO with ECC using CIF interface for seamless data flow.  
-- Automated batch jobs and implemented process improvements using Six Sigma DMAIC.  
-- Enabled third-party integrations via IDocs and BAPIs, boosting order visibility by 35%.  
-- Developed Fiori dashboards for tracking warehouse KPIs, inventory, and delivery metrics.  
+### **SAP Production Planner | Dell Technologies (Oct 2024 - Dec 2025)**  
+-Manage daily production planning and work order execution to meet delivery schedules
+-Perform MRP analysis and resolve exception messages to ensure material availability
+-Lead daily shortage meetings and coordinate with teams to resolve production risks
+-Maintain master data (BOMs, routings, work centers) for accurate planning
+-Monitor production performance (yield, scrap, confirmations)
+-Support capacity planning and load balancing
+-Coordinate across multiple work centers to ensure smooth flow of finished goods
 
-### **SAP PPDS Consultant | Tata Consultancy Services (Jan 2021– Dec 2022)**  
-- Delivered SAP APO solutions for complex supply chain planning challenges.  
-- Resolved 97%+ of production planning failures and optimized CIF integration.  
-- Managed Core Interface (CIF) between SAP APO and R/3 for synchronization.  
-- Led resolution of issues in Transport Load Builder and Deployment.  
-- Automated CVC clean-up and improved system performance.  
-- Configured planning books, data views, and forecast profiles for APO DP & SNP.  
-- Supported CIF integration with ECC and collaborated on ABAP custom reports.  
-- Participated in APO upgrade testing, documentation, and user support.
-  
+### **SAP Production Planning Analyst | Tata Consultancy Services (Jan 2021– Dec 2022)**  
+-Resolved planning and master data issues through ticket-based support with 97% resolution rate
+-Created and maintained material master data, BOMs, and planning data in SAP ECC through change orders
+-Supported MRP analysis and identified data inconsistencies impacting planning
+-Monitored system processes and ensured smooth execution of planning activities
+-Assisted in UAT testing, documentation, and reporting
 ## 🔥 Key Skills  
 
-- **SAP & Supply Chain**: SAP APO (DP, SNP, PP/DS), SAP IBP, SAP MM, SAP PP &QM, SAP ECC, Kinaxis RapidResponse  
-- **Data & Analytics**: Python (Pandas, NumPy), SQL (MySQL, PostgreSQL, T-SQL), Power BI, Tableau  
-- **Forecasting & Optimization**: Demand Planning, Inventory Optimization, Cost Reduction Strategies  
-- **Project Management**: Agile, Scrum, Jira, ServiceNow  
-- **Process Improvement**: Lean Six Sigma, Workflow Automation  
-
+Production Planning: Scheduling, Work Orders, MRP, Capacity Planning
+Material Management: Shortage Tracking, Inventory Monitoring, Safety Stock
+SAP: SAP ECC & SAP S/4HANA (PP, MM – Working Knowledge)
+Data & Reporting: Excel (Advanced), Power BI, SQL
+Process Improvement: Root Cause Analysis, Continuous Improvement
+Collaboration: Cross-functional coordination (Procurement, Production, Quality, Engineering)
 ---
 
 ## 📌 Featured Projects  
