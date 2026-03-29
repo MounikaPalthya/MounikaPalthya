@@ -51,7 +51,6 @@ SAP: SAP ECC & SAP S/4HANA (PP, MM – Working Knowledge)
 Data & Reporting: Excel (Advanced), Power BI, SQL
 Process Improvement: Root Cause Analysis, Continuous Improvement
 Collaboration: Cross-functional coordination (Procurement, Production, Quality, Engineering)
----
 
 ## 📌 Featured Projects  
 
